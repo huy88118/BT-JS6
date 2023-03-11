@@ -422,7 +422,7 @@ function showDetails(personID) {
                 <label class='fw-bold'>Hóa đơn: </label>
                 <span>$${person.bill.toLocaleString()}</span>
                 <br>
-                <label class='fw-bold'>Nhận xét: </label>
+                <label class='fw-bold'>Đánh giá: </label>
                 <span>${person.rate}</span>
             `
         }
